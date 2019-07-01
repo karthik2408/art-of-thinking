@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to 
 
-You can use the [editor on GitHub](https://github.com/karthik2408/artsofcomputer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Your subconscious mind is the builder of your body can heal you.Lull yourself to sleep every night with a idea of perfect health, and your subconscious, being your faithfull servent, will obey you.   
+Hi, we are mind valley. We believe education is the key to elevating humanity. Traditional schooling prepared us for jobs and to be safe. But it ignores the areas that truly lead to extraordinary, meaningful lives. This is where Mindvalley comes in. And this is why our approach to learning defies tradition.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
