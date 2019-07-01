@@ -11,9 +11,7 @@ There are two levels of mind the consicous or rational level, and the subconscio
 ```markdown
 Syntax highlighted code block
 
-# CONSICOUS AND SUBCONSICOUS TERMS DIFFERENTIATED
-This are not two minds.They both are merely two spheres of activity within one mind. Your conscious mind is the reasoning mind.It is the phase of mind which chooses. On the other hand, without any conscious choice on your part, your heart is kept functioning automatically, and the process of digestion, circulation and breathing are carried on by your subconscious mind through processes independent of your conscious     
-
+# Header 1    
 ## Header 2
 ### Header 3
 
