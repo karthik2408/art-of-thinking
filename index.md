@@ -1,15 +1,19 @@
-## Welcome to 
+## Welcome to art of thinking
 
-Your subconscious mind is the builder of your body can heal you.Lull yourself to sleep every night with a idea of perfect health, and your subconscious, being your faithfull servent, will obey you.   
-Hi, we are mind valley. We believe education is the key to elevating humanity. Traditional schooling prepared us for jobs and to be safe. But it ignores the areas that truly lead to extraordinary, meaningful lives. This is where Mindvalley comes in. And this is why our approach to learning defies tradition.
-### Markdown
+Your subconscious mind is the builder of your body can heal you.Lull yourself to sleep every night with a idea of perfect health, and your subconscious, being your faithfull servent, will obey you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, we are art of thinking. We believe education is the key to elevating humanity. Traditional schooling prepared us for jobs and to be safe. But it ignores the areas that truly lead to extraordinary, meaningful lives. This is where Mindvalley comes in. And this is why our approach to learning defies tradition.
+
+### HOW MIND WORKS 
+
+There are two levels of mind the consicous or rational level, and the subconscious or irrational level. you think with your conscious mind, and whatever you think habitually think sinks into subconscious mind, which creates according to nature of your thoughts 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# CONSICOUS AND SUBCONSICOUS TERMS DIFFERENTIATED
+This are not two minds.They both are merely two spheres of activity within one mind. Your conscious mind is the reasoning mind.It is the phase of mind which chooses. On the other hand, without any conscious choice on your part, your heart is kept functioning automatically, and the process of digestion, circulation and breathing are carried on by your subconscious mind through processes independent of your conscious     
+
 ## Header 2
 ### Header 3
 
