@@ -33,8 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your thought is received by your brain, which is the organ of your conscious reasoning mind. When your conscious or objective mind accepts the thought completely, it is sent to the solar plexus, called the brain of your mind, where it becomes flesh and is made manifest in your experience.
 <img src="brain.jpg"/>
 
-### Basics 
-
+### Mind reality
+The main point to remember is once the subconscious mind accepts anidea, it begins to execute it. It is an interesting and subtle truth that thelaw of the subconscious mind works for good and bad ideas alike. Thislaw, when applied in a negative way, is the cause of failure, frustrationand unhappiness. However, when your habitual thinking is harmoniousand constructive, you experience perfect health, success and prosperity.
+<img src="shutterstock">
 
 ### Support or Contact
 
