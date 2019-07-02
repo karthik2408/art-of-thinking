@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Your Subconscious Is Your Book Of Life
 
 Your thought is received by your brain, which is the organ of your conscious reasoning mind. When your conscious or objective mind accepts the thought completely, it is sent to the solar plexus, called the brain of your mind, where it becomes flesh and is made manifest in your experience.
-
+<img src="">
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
