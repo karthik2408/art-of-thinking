@@ -35,7 +35,7 @@ Your thought is received by your brain, which is the organ of your conscious rea
 
 ### Mind reality
 The main point to remember is once the subconscious mind accepts anidea, it begins to execute it. It is an interesting and subtle truth that thelaw of the subconscious mind works for good and bad ideas alike. Thislaw, when applied in a negative way, is the cause of failure, frustrationand unhappiness. However, when your habitual thinking is harmoniousand constructive, you experience perfect health, success and prosperity.
-<img src="shutterstock"/>
+<img src="shutterstock.jpg"/>
 
 ### Support or Contact
 
