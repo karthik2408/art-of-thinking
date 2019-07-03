@@ -1,4 +1,4 @@
-# Bicycles
+# BICYCLES
 Bicycles are divided into a seemingly endless number of categories and sub-categories. The following list will help you understand all the various styles and features.
 
 ## MOUNTAIN BIKE
